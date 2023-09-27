@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="9px" viewBox="0 0 15 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Down Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="UTILITY-NAV/576/Default" transform="translate(-114.000000, -165.000000)" stroke="#FF6700" stroke-width="2">
+            <g id="Tablet-540px/Utility-Nav">
+                <g>
+                    <g id="Language-Selector" transform="translate(28.000000, 145.000000)">
+                        <path d="M90.9342286,29.7138564 L96.0657714,24.4736667 M90.9342286,19.2861436 L96.0657714,24.5263333" id="Down-Arrow" transform="translate(93.500000, 24.500000) scale(-1, -1) rotate(-90.000000) translate(-93.500000, -24.500000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
